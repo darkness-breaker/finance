@@ -1,0 +1,11 @@
+# 数据库文件（运行时自动生成，不纳入版本管理）
+budget.db
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec
